@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2024<br>📚 I'm currently learning English and Laravel<br>🎯 Goals: Working outside Brazil<br>🎲 Fun fact: I love make beats</p>
+<p align="left">✨ Coding since 2024<br>📚 I'm currently learning English and JavaScript<br>🎯 Goals: Working outside Brazil<br>🎲 Fun fact: I love make beats</p>
 
 ###
 
