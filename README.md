@@ -4,10 +4,6 @@
 
 I'm a software developer with a strong passion for building scalable web applications and optimizing processes through automation. I focus on writing clean, maintainable, and efficient code using modern technologies across the entire stack. Currently studying Multiplatform Software Development at FATEC, I enjoy solving complex challenges, integrating APIs, and constantly improving my problem-solving skills.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider Wave Animation" />
-</p>
-
 ---
 
 ### 🧰 Languages and Tools
