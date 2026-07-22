@@ -4,6 +4,12 @@
 
 I'm a software developer with a strong passion for building scalable web applications and optimizing processes through automation. I focus on writing clean, maintainable, and efficient code using modern technologies across the entire stack. Currently studying Multiplatform Software Development at FATEC, I enjoy solving complex challenges, integrating APIs, and constantly improving my problem-solving skills.
 
+<p align="left">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=38BDF8&vCenter=true&width=450&lines=Building+Full-Stack+Web+Applications;Automating+Workflows+%26+APIs;Focusing+on+Clean+Code+%26+Performance" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ### 🧰 Languages and Tools
