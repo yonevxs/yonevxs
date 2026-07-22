@@ -1,41 +1,52 @@
-<h1 align="left">Yo, What's up? 👋</h1>
+# Olá, eu sou o Lucas Sousa 👋
 
-###
+💻 **Desenvolvedor de Software Multiplataforma** | Back-end & Front-end
 
-<p align="left">My name is Lucas Nevs and I'm a Full-Stack Developer, from São Paulo, Brazil!</p>
+Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC, atuo na construção de aplicações web, mobile, automações e integrações de sistemas. Tenho foco em arquiteturas escaláveis, código limpo e soluções eficientes.
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 🛠️ Stacks & Tecnologias
 
-###
+#### **Back-end & Linguagens**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<p align="left">✨ Coding since 2024<br>📚 I'm currently learning English and JavaScript<br>🎯 Goals: Working outside Brazil<br>🎲 Fun fact: I love make beats</p>
+#### **Front-end & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###
+#### **Bancos de Dados & Caching**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-<h2 align="left">I code with:</h2>
+---
 
-###
+### 📌 Destaques & Projetos
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+* 📱 **Wealth Car:** Aplicação mobile de telemetria automotiva em tempo real integrada com hardware (ESP32).
+* 🥋 **CTC Hawks:** Sistema web de gestão para academia de artes marciais (Django + PythonAnywhere).
+* 🗺️ **PG360:** Guia turístico interativo com React e integração com Google Maps API.
+* 🤖 **Automation Tools:** Scripts de automação web (Selenium), integrações com APIs (Evolution API / WhatsApp) e ferramentas de monitoramento.
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonevxs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsouzx&show_icons=true&theme=dark&count_private=true" alt="vsouzx GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsouzx&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
