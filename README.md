@@ -1,52 +1,56 @@
-# Olá, eu sou o Lucas Sousa 👋
+<div align="center">
+  <h1>Hey 👋, eu sou o Lucas Henrique!</h1>
+  <p><strong>Desenvolvedor Full-Stack & Entusiasta de Automação de Processos</strong></p>
 
-💻 **Desenvolvedor de Software Multiplataforma** | Back-end & Front-end
-
-Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC, atuo na construção de aplicações web, mobile, automações e integrações de sistemas. Tenho foco em arquiteturas escaláveis, código limpo e soluções eficientes.
-
----
-
-### 🛠️ Stacks & Tecnologias
-
-#### **Back-end & Linguagens**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-#### **Front-end & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Bancos de Dados & Caching**
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+  <p>
+    <a href="https://linkedin.com/in/lucashenriquenevessousa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:lucashnevessousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
+</div>
 
 ---
 
-### 📌 Destaques & Projetos
+### 🚀 Sobre Mim
 
-* 📱 **Wealth Car:** Aplicação mobile de telemetria automotiva em tempo real integrada com hardware (ESP32).
-* 🥋 **CTC Hawks:** Sistema web de gestão para academia de artes marciais (Django + PythonAnywhere).
-* 🗺️ **PG360:** Guia turístico interativo com React e integração com Google Maps API.
-* 🤖 **Automation Tools:** Scripts de automação web (Selenium), integrações com APIs (Evolution API / WhatsApp) e ferramentas de monitoramento.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vsouzx&show_icons=true&theme=dark&count_private=true" alt="vsouzx GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsouzx&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+- 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na FATEC.
+- 💻 Atualmente atuando na **NxHub** focado no desenvolvimento de aplicações Full-Stack, integração de APIs e automação de workflows.
+- ⚙️ Experiência em arquitetura de microsserviços, integração de modelos de IA (OpenAI, Gemini), pipelines em n8n e manipulação de vídeo/imagem (FFmpeg).
+- 🛠️ Foco constante em código limpo, otimização de performance e entrega de valor para o negócio.
 
 ---
 
-### 📫 Conecte-se comigo
+### 🛠️ Stacks & Ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+<div align="center">
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | `JavaScript` `TypeScript` `Java` `Python` `PHP` `HTML5` `CSS3` |
+| **Front-end** | `React` `Next.js` `TailwindCSS` |
+| **Back-end** | `Node.js` `Spring Boot` `REST APIs` |
+| **Bancos de Dados** | `PostgreSQL` `Supabase` `MySQL` `MongoDB` `Redis` |
+| **DevOps & Automações** | `Docker` `Linux (Ubuntu)` `n8n` `FFmpeg` `DigitalOcean` `Git` `Postman` `Selenium` |
+
+</div>
+
+---
+
+### 📌 Projetos em Destaque
+
+- 🌟 **[PG360](#)** — Guia turístico e cultural digital desenvolvido em **React** no Front-end e **Java (Spring Boot)** com **PostgreSQL** no Back-end.
+- ⚡ **Sistemas de Automação / Workflows** — Pipelines customizados em **n8n**, integração com **OpenAI (ChatGPT)**, APIs de mídia e rotinas com **Python/Selenium**.
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yonevxs&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonevxs&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonevxs&theme=dark" alt="Sequência de Contribuições" />
+</div>
