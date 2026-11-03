@@ -18,7 +18,7 @@
 ║ [ BANCO_DE_DADOS_NCPD // RESULTADO_DA_VARREDURA ]                ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║ ALIAS ......... Lucas Neves                                      ║
-║ CLASSE ........ Netrunner Full-Stack // Arquiteto de Automação   ║
+║ CLASSE ........ Desenvolvedor Full-Stack                         ║
 ║ CORPORAÇÃO .... FATEC // Desenv. de Software Multiplataforma     ║
 ║ DISTRITO ...... São Paulo, BR [Sub-Rede: 013]                    ║
 ║ NÍVEL DE CRED . Tier 5 // Arq. Limpa e Sistemas Escaláveis       ║
