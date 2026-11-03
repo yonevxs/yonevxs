@@ -1,141 +1,103 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:3b0a6e,100:7B2FFF&height=14&section=header" width="100%"/>
-
-```
-██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
-██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
-██║     ██║   ██║██║     ███████║███████╗
-██║     ██║   ██║██║     ██╔══██║╚════██║
-███████╗╚██████╔╝╚██████╗██║  ██║███████║
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
-███╗   ██╗███████╗██╗   ██╗███████╗███████╗
-████╗  ██║██╔════╝██║   ██║██╔════╝██╔════╝
-██╔██╗ ██║█████╗  ██║   ██║█████╗  ███████╗
-██║╚██╗██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ╚════██║
-██║ ╚████║███████╗ ╚████╔╝ ███████╗███████║
-╚═╝  ╚═══╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝
-```
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&width=620&lines=%3E+BOOTING+NEURAL+INTERFACE...;%3E+USER%3A+LUCAS_NEVES+%5BAUTHORIZED%5D;%3E+SCALABLE+WEB+APPS+%2F%2F+AUTOMATION;%3E+CLEAN+CODE.+ZERO+LATENCY." alt="Typing SVG" />
-</a>
-
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-B026FF?style=for-the-badge&labelColor=0d0221)
-![ROLE](https://img.shields.io/badge/ROLE-FULL--STACK_DEV-7B2FFF?style=for-the-badge&labelColor=0d0221)
-![ZONE](https://img.shields.io/badge/ZONE-PRAIA_GRANDE%2C_BR-D580FF?style=for-the-badge&labelColor=0d0221)
-
-</div>
-
----
-
-## `> ACCESSING_PROFILE.exe`
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  NOME ........ Lucas Neves                               ║
-║  CLASSE ...... Full-Stack Developer                      ║
-║  BASE ........ Praia Grande, SP - Brasil                 ║
-║  ACADEMIA .... Desenv. Software Multiplataforma / FATEC  ║
-║  FOCO ........ Web apps escaláveis // Automação // APIs  ║
-╚══════════════════════════════════════════════════════════╝
+```yaml
+╔═════════════════════════════════════════════════════════════════════════╗
+║  KIROSHI OPTICS // FIRMWARE v4.02                        [NET_LINK: ON] ║
+╚═════════════════════════════════════════════════════════════════════════╝
+   __    __  __________   _____    _   _________    ___________
+  / /   / / / / ____/  | / ___/   / | / / ____/ |  / / ____/ ___/
+ / /   / / / / /   / /| | \__ \   /  |/ / __/  | | / / __/  \__ \ 
+/ /___/ /_/ / /___/ ___ |___/ /  / /|  / /___  | |/ / /___ ___/ / 
+\____/\____/\____/_/  |_/____/  /_/ |_/_____/  |___/_____//____/  
+                                                                  
+[ NCPD_DATABASE // SCAN_RESULT ] ──────────────────────────────────────────
+> ALIAS:        Lucas Neves
+> ROLE:         Full-Stack Netrunner & Automation Architect
+> AFFILIATION:  FATEC // Multiplatform Software Development
+> LOCATION:     São Paulo, BR [Sub-Net: 013]
+> CRED_LEVEL:   Tier 5 // Clean Architecture & Scalable Systems
 ```
 
-Desenvolvedor apaixonado por construir **aplicações web escaláveis** e otimizar processos com **automação**. Escrevo código limpo, manutenível e eficiente, usando tecnologias modernas em toda a stack. Gosto de resolver desafios complexos, integrar APIs e evoluir minha resolução de problemas a cada dia.
+### `> BREACH_PROTOCOL // BIO_DATA.shard`
 
----
-
-## `> LOADING_STACK.dll`
-
-```
-┌─[ FRONTEND ]──────────────────────────────────────────────┐
-```
-<img src="https://img.shields.io/badge/TypeScript-1a0b2e?style=for-the-badge&logo=typescript&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/JavaScript-1a0b2e?style=for-the-badge&logo=javascript&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/React-1a0b2e?style=for-the-badge&logo=react&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/Next.js-1a0b2e?style=for-the-badge&logo=nextdotjs&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/Tailwind-1a0b2e?style=for-the-badge&logo=tailwindcss&logoColor=B026FF" />
-
-```
-├─[ BACKEND ]───────────────────────────────────────────────┤
-```
-<img src="https://img.shields.io/badge/Node.js-1a0b2e?style=for-the-badge&logo=nodedotjs&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/Java-1a0b2e?style=for-the-badge&logo=openjdk&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/Spring-1a0b2e?style=for-the-badge&logo=spring&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/Python-1a0b2e?style=for-the-badge&logo=python&logoColor=B026FF" />
-
-```
-├─[ DATABASE ]──────────────────────────────────────────────┤
-```
-<img src="https://img.shields.io/badge/PostgreSQL-1a0b2e?style=for-the-badge&logo=postgresql&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/Supabase-1a0b2e?style=for-the-badge&logo=supabase&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/MongoDB-1a0b2e?style=for-the-badge&logo=mongodb&logoColor=B026FF" />
-
-```
-├─[ DEVOPS & TOOLS ]────────────────────────────────────────┤
-```
-<img src="https://img.shields.io/badge/Docker-1a0b2e?style=for-the-badge&logo=docker&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/DigitalOcean-1a0b2e?style=for-the-badge&logo=digitalocean&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/Git-1a0b2e?style=for-the-badge&logo=git&logoColor=B026FF" />
-<img src="https://img.shields.io/badge/Selenium-1a0b2e?style=for-the-badge&logo=selenium&logoColor=B026FF" />
-
-```
-└───────────────────────────────────────────────────────────┘
+```ini
+[SYSTEM_LOG: DECRYPTING SHARD...]
+I'm a software developer with a strong passion for building scalable web 
+applications and optimizing processes through automation. I focus on writing 
+clean, maintainable, and efficient code using modern technologies across the 
+entire stack. Currently studying Multiplatform Software Development at FATEC, 
+I enjoy solving complex challenges, integrating APIs, and constantly 
+improving my problem-solving skills.
+[DECRYPTION_COMPLETE // 100%]
 ```
 
 ---
 
-## `> SYSTEM_DIAGNOSTICS.log`
+### `> CYBERWARE_LOADOUT // INSTALLED_IMPLANTS`
 
-<div align="center">
+```yaml
+┌───────────────────────────┬─────────────────────────────────────────────┐
+│ [SLOT: FRONTAL CORTEX]    │ Core Languages & Logic                      │
+│  ├─ TypeScript / JS       │  ████████████████████░░  [OVERCLOCKED]      │
+│  ├─ Java (Spring Boot)    │  ██████████████████░░░░  [ACTIVE]           │
+│  └─ Python (FastAPI)      │  ██████████████████░░░░  [ACTIVE]           │
+├───────────────────────────┼─────────────────────────────────────────────┤
+│ [SLOT: OCULAR SYSTEM]     │ Interface & Client-Side Rendering           │
+│  └─ React / Next.js / TW  │  ███████████████████░░░  [KIROSHI_MK.5]     │
+├───────────────────────────┼─────────────────────────────────────────────┤
+│ [SLOT: NERVOUS SYSTEM]    │ Daemons, Automation & Infrastructure        │
+│  ├─ Docker / Linux VPS    │  ██████████████████░░░░  [SYNAPTIC_ACCEL]   │
+│  └─ Selenium / Playwright │  ███████████████████░░░  [AUTO_DAEMON]      │
+├───────────────────────────┼─────────────────────────────────────────────┤
+│ [SLOT: MEMORY DECK]       │ Data Storage & Persistence                  │
+│  └─ Postgres / Mongo / SB │  ██████████████████░░░░  [ENCRYPTED]        │
+└───────────────────────────┴─────────────────────────────────────────────┘
+```
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d0221&title_color=B026FF&icon_color=D580FF&text_color=ffffff&ring_color=7B2FFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d0221&title_color=B026FF&text_color=ffffff" />
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0d0221&ring=7B2FFF&fire=D580FF&currStreakLabel=B026FF&sideLabels=ffffff&currStreakNum=D580FF&sideNums=B026FF&dates=888888&stroke=3b0a6e&border=3b0a6e" />
-
-</div>
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)" alt="typescript" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="javascript" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)" alt="react" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg)" alt="nextjs" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg)" alt="tailwindcss" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)" alt="nodejs" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)" alt="java" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)" alt="spring" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="python" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)" alt="postgresql" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg)" alt="supabase" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)" alt="mongodb" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)" alt="docker" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg)" alt="digitalocean" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)" alt="git" width="36" height="36"/>
+  &nbsp;
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg)" alt="selenium" width="36" height="36"/>
+</p>
 
 ---
 
-## `> ESTABLISHING_CONNECTION...`
+### `> BREACH_MATRIX // ACTIVE_DAEMONS`
 
+```text
+  [ BUFFER: ■ ■ ■ ■ ■ □ ]                     [ RAM: 24 / 24 UNITS ]
+ ┌───────────────────────┐   ┌────────────────────────────────────────────┐
+ │ 1C   BD   55   E9   7A│   │ DAEMON_01: Full-Stack Web Architecture     │
+ │ 55   1C   E9   BD   55│   │   └─ Upload: [ 1C ] [ 55 ] [ E9 ]          │
+ │ BD   E9   7A   1C   FF│   │ DAEMON_02: Workflow & Browser Automation   │
+ │ E9   55   1C   7A   BD│   │   └─ Upload: [ BD ] [ E9 ] [ FF ]          │
+ │ 7A   FF   BD   55   1C│   │ DAEMON_03: REST API & Cloud Microservices  │
+ └───────────────────────┘   │   └─ Upload: [ 55 ] [ 7A ] [ 1C ]          │
+                             └────────────────────────────────────────────┘
 ```
-   ┌──────────────────────────────┐
-   │  > ping lucas.neves          │
-   │  > reply: 64 bytes // ok     │
-   │  > channel: OPEN             │
-   └──────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/LINKEDIN-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=B026FF&color=7B2FFF" />
-</a>
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/E--MAIL-1a0b2e?style=for-the-badge&logo=gmail&logoColor=B026FF&color=7B2FFF" />
-</a>
-<a href="https://SEU_PORTFOLIO">
-  <img src="https://img.shields.io/badge/PORTFOLIO-1a0b2e?style=for-the-badge&logo=vercel&logoColor=B026FF&color=7B2FFF" />
-</a>
-
-</div>
-
----
-
-## `> AUDIO_STREAM.mp3`
-
-```
- ▁▂▃▅▆▇█▇▆▅▃▂▁▂▃▅▆▇█▇▆▅▃▂▁  NOW PLAYING  ▁▂▃▅▆▇█▇▆▅▃▂▁▂▃▅▆▇█▇▆▅▃▂▁
-```
-
-<div align="center">
-
-<a href="https://open.spotify.com/user/SEU_SPOTIFY_ID">
-  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0221&bar_color=b026ff&bar_color_cover=false" alt="Spotify" />
-</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:3b0a6e,100:0d0221&height=120&section=footer" width="100%"/>
-
-</div>
