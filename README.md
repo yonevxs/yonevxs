@@ -1,109 +1,113 @@
 <div align="center">
 
-  <!-- ANIMAÇÃO 1: HUD KIROSHI OPTICS DIGITANDO EM AMARELO CYBERPUNK -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=FCEE09&background=00000000&center=true&vCenter=true&width=700&lines=%5B+KIROSHI+OPTICS+%2F%2F+SISTEMA+INICIALIZADO+%5D;SCANNER+NCPD%3A+LUCAS+NEVES+IDENTIFICADO;NETRUNNER+FULL-STACK+%26+ARQUITETO+DE+AUTOMA%C3%87%C3%95ES;CONEX%C3%83O+ESTABELECIDA+EM+SUB-REDE+013..." alt="Kiroshi HUD Typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0a6e,100:7B2FFF&height=120&section=header&animation=twinkling" width="100%"/>
+
+<img src="assets/banner.svg" alt="LUCAS NEVES" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2800&pause=900&color=B026FF&center=true&vCenter=true&width=640&lines=%3E+INITIALIZING+NEURAL+LINK...;%3E+SCANNING+NCPD_DATABASE...;%3E+ALIAS%3A+LUCAS_NEVES+%5BAUTHORIZED%5D;%3E+FULL-STACK+NETRUNNER+%2F%2F+AUTOMATION+ARCHITECT;%3E+WAKE+UP%2C+SAMURAI.+WE+HAVE+CODE+TO+BURN." alt="Typing SVG" />
+</a>
+
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-B026FF?style=for-the-badge&labelColor=0d0221)
+![ROLE](https://img.shields.io/badge/ROLE-FULL--STACK_DEV-7B2FFF?style=for-the-badge&labelColor=0d0221)
+![ZONE](https://img.shields.io/badge/SUB--NET-013-D580FF?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
 ```yaml
-╔═════════════════════════════════════════════════════════════════════════╗
-║  KIROSHI OPTICS // FIRMWARE v4.02                        [REDE: ATIVA]  ║
-╚═════════════════════════════════════════════════════════════════════════╝
-   __    __  __________   _____    _   _________    ___________
-  / /   / / / / ____/  | / ___/   / | / / ____/ |  / / ____/ ___/
- / /   / / / / /   / /| | \__ \   /  |/ / __/  | | / / __/  \__ \ 
-/ /___/ /_/ / /___/ ___ |___/ /  / /|  / /___  | |/ / /___ ___/ / 
-\____/\____/\____/_/  |_/____/  /_/ |_/_____/  |___/_____//____/  
-                                                                  
-[ BANCO_DE_DADOS_NCPD // RESULTADO_DO_SCAN ] ──────────────────────────────
-> CODINOME:     Lucas Neves
-> CLASSE:       Desenvolvedor Full-Stack & Engenheiro de Automação
-> AFILIAÇÃO:    FATEC // Desenvolvimento de Software Multiplataforma
-> LOCALIZAÇÃO:  São Paulo, BR [Sub-Rede: 013]
-> CRED_RUA:     Tier 5 // Arquitetura Limpa, APIs & Sistemas Escaláveis
+[ NCPD_DATABASE // SCAN_RESULT ] ──────────────────────────────────────────
+> ALIAS:        Lucas Neves
+> ROLE:         Full-Stack Netrunner & Automation Architect
+> AFFILIATION:  FATEC // Multiplatform Software Development
+> LOCATION:     São Paulo, BR [Sub-Net: 013]
+> CRED_LEVEL:   Tier 5 // Clean Architecture & Scalable Systems
 ```
 
-<!-- BARRA DE PULSO NEON ANIMADA -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:FCEE09,100:FF003C&height=3" width="100%" />
+### `> BREACH_PROTOCOL // BIO_DATA.shard`
 
-### `> PROTOCOLO_DE_INVASÃO // DADOS_BIO.shard`
-
-<!-- ANIMAÇÃO 2: LOG DE DESCRIPTOGRAFIA EM CIANO NEON -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1500&color=00F0FF&vCenter=true&width=600&height=25&lines=%3E+DESCRIPTOGRAFANDO+ARQUIVO+BIO_DATA.SHARD...;%3E+ACESSO+LIBERADO+%5B100%25%5D+-+EXIBINDO+REGISTROS%3A" alt="Decrypting Log" />
-
-```ini
-[LOG_DO_SISTEMA: ARQUIVO DESCRIPTOGRAFADO]
-Sou um desenvolvedor de software movido pela criação de aplicações web 
-escaláveis e pela otimização de processos através de automações inteligentes. 
-Meu foco é escrever código limpo, sustentável e de alta performance utilizando 
-tecnologias modernas de ponta a ponta. Atualmente cursando Desenvolvimento de 
-Software Multiplataforma na FATEC, gosto de resolver problemas complexos, 
-arquitetar integrações via APIs e evoluir constantemente minhas soluções.
-[STATUS: OPERACIONAL // SEM FALHAS DETECTADAS]
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=14000&pause=2000&color=D580FF&width=900&lines=%5BSYSTEM_LOG%3A+DECRYPTING+SHARD...%5D;I'm+a+software+developer+passionate+about+scalable+web+apps+and+automation.;I+write+clean%2C+maintainable%2C+efficient+code+across+the+entire+stack.;Studying+Multiplatform+Software+Development+at+FATEC.;I+enjoy+solving+complex+challenges+and+integrating+APIs.;%5BDECRYPTION_COMPLETE+%2F%2F+100%25%5D" alt="Bio" />
+</a>
 
 ---
 
-### `> CYBERWARE_INSTALADO // ARSENAL_TECNOLÓGICO`
+### `> CYBERWARE_LOADOUT // INSTALLED_IMPLANTS`
 
-```yaml
-┌───────────────────────────┬─────────────────────────────────────────────┐
-│ [SLOT: CÓRTEX FRONTAL]    │ Linguagens Base & Motores de Execução       │
-│  ├─ TypeScript / Node.js  │  ████████████████████░░  [OVERCLOCK]        │
-│  ├─ Java (Spring Boot)    │  ██████████████████░░░░  [ATIVO]            │
-│  └─ Python (FastAPI)      │  ███████████████████░░░  [ATIVO]            │
-├───────────────────────────┼─────────────────────────────────────────────┤
-│ [SLOT: SISTEMA OCULAR]    │ Interfaces & Renderização Client-Side       │
-│  └─ React / Next.js / TW  │  ███████████████████░░░  [KIROSHI_MK.5]     │
-├───────────────────────────┼─────────────────────────────────────────────┤
-│ [SLOT: SISTEMA NERVOSO]   │ Daemons, Automações & Infraestrutura        │
-│  ├─ Docker / Linux VPS    │  ██████████████████░░░░  [ACEL_SINÁPTICO]   │
-│  └─ Selenium / Automação  │  ████████████████████░░  [AUTO_DAEMON]      │
-├───────────────────────────┼─────────────────────────────────────────────┤
-│ [SLOT: DECK DE MEMÓRIA]   │ Persistência & Bancos de Dados              │
-│  └─ Postgres / Mongo / SB │  ██████████████████░░░░  [CRIPTOGRAFADO]    │
-└───────────────────────────┴─────────────────────────────────────────────┘
-```
-
-<!-- ÍCONES CORRIGIDOS E AGRUPADOS (100% COMPATÍVEIS COM GITHUB DARK MODE) -->
 <div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,java,spring,py,fastapi,postgres,supabase,mongodb,docker,linux,git,selenium&perline=9&theme=dark" alt="Tech Stack Cyberware" />
-  </p>
+  <img src="assets/loadout.svg" alt="Cyberware Loadout" width="100%"/>
 </div>
 
-> 💡 *Caso prefira manter também o ícone da DigitalOcean isolado ou usar ícones individuais lado a lado sem quebrar, deixei o bloco corrigido logo abaixo da prévia!*
-
----
-
-### `> MATRIZ_DE_INVASÃO // DAEMONS_ATIVOS`
-
-<!-- ANIMAÇÃO 3: UPLOAD DE DAEMONS EM VERMELHO PROTOCOLO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=800&color=FF003C&vCenter=true&width=650&height=25&lines=%5B+INJETANDO+DAEMON_01%3A+FULLSTACK_ARCH.exe+%5D;%5B+INJETANDO+DAEMON_02%3A+AUTO_BOT_SWARM.py+%5D;%5B+INJETANDO+DAEMON_03%3A+REST_API_GATEWAY.jar+%5D;%5B+TODOS+OS+DAEMONS+OPERANDO+EM+SEGUNDO+PLANO+%5D" alt="Daemon Upload" />
-
-```text
-  [ BUFFER: ■ ■ ■ ■ ■ □ ]                [ MEMÓRIA RAM: 24 / 24 UNIDADES ]
- ┌───────────────────────┐   ┌────────────────────────────────────────────┐
- │ 1C   BD   55   E9   7A│   │ DAEMON_01: Arquitetura Web Full-Stack      │
- │ 55   1C   E9   BD   55│   │   └─ Sequência: [ 1C ] [ 55 ] [ E9 ]       │
- │ BD   E9   7A   1C   FF│   │ DAEMON_02: Automação de Fluxos & Browsers  │
- │ E9   55   1C   7A   BD│   │   └─ Sequência: [ BD ] [ E9 ] [ FF ]       │
- │ 7A   FF   BD   55   1C│   │ DAEMON_03: APIs REST, Cloud & Containers   │
- └───────────────────────┘   │   └─ Sequência: [ 55 ] [ 7A ] [ 1C ]       │
-                             └────────────────────────────────────────────┘
-```
-
-<div align="center">
-  
-  <!-- BADGES ESTILO CYBERPUNK (AMARELO #FCEE09, CIANO #00F0FF E VERMELHO #FF003C) -->
-  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/HOLOCALL_//_LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=000000&color=00F0FF" alt="LinkedIn" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
   &nbsp;
-  <a href="mailto:SEU-EMAIL@dominio.com">
-    <img src="https://img.shields.io/badge/NET_MESSAGE_//_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FCEE09&labelColor=000000&color=FCEE09" alt="Email" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="36" height="36"/>
+</p>
+
+---
+
+### `> BREACH_MATRIX // ACTIVE_DAEMONS`
+
+<div align="center">
+  <img src="assets/breach.svg" alt="Breach Matrix" width="100%"/>
+</div>
+
+---
+
+### `> SYSTEM_DIAGNOSTICS.log`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d0221&title_color=B026FF&icon_color=D580FF&text_color=ffffff&ring_color=7B2FFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d0221&title_color=B026FF&text_color=ffffff" />
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0d0221&ring=7B2FFF&fire=D580FF&currStreakLabel=B026FF&sideLabels=ffffff&currStreakNum=D580FF&sideNums=B026FF&dates=888888&stroke=3b0a6e&border=3b0a6e" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF003C,50:FCEE09,100:00F0FF&height=3" width="100%" />
+---
+
+### `> AUDIO_STREAM.mp3`
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/SEU_SPOTIFY_ID">
+  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0221&bar_color=b026ff&bar_color_cover=false" alt="Spotify" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/SEU_USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=B026FF&color=7B2FFF" /></a>
+<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--MAIL-1a0b2e?style=for-the-badge&logo=gmail&logoColor=B026FF&color=7B2FFF" /></a>
+<a href="https://SEU_PORTFOLIO"><img src="https://img.shields.io/badge/PORTFOLIO-1a0b2e?style=for-the-badge&logo=vercel&logoColor=B026FF&color=7B2FFF" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:3b0a6e,100:0d0221&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
