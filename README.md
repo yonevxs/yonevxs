@@ -1,14 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCEE0A,50:FF003C,100:00F0FF&height=200&section=header&text=LUCAS%20NEVES&fontSize=60&fontColor=0a0a0f&fontAlignY=38&desc=//%20FULL-STACK%20DEVELOPER%20//%20NIGHT%20CITY%20EDITION&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:3b0a6e,100:7B2FFF&height=14&section=header" width="100%"/>
+
+```
+██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗
+██║     ██║   ██║██╔════╝██╔══██╗██╔════╝
+██║     ██║   ██║██║     ███████║███████╗
+██║     ██║   ██║██║     ██╔══██║╚════██║
+███████╗╚██████╔╝╚██████╗██║  ██║███████║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝
+███╗   ██╗███████╗██╗   ██╗███████╗███████╗
+████╗  ██║██╔════╝██║   ██║██╔════╝██╔════╝
+██╔██╗ ██║█████╗  ██║   ██║█████╗  ███████╗
+██║╚██╗██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ╚════██║
+██║ ╚████║███████╗ ╚████╔╝ ███████╗███████║
+╚═╝  ╚═══╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝
+```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=800&color=FCEE0A&center=true&vCenter=true&width=600&lines=%3E+INITIALIZING+NEURAL+LINK...;%3E+USER%3A+LUCAS_NEVES+%5BAUTHORIZED%5D;%3E+SCALABLE+WEB+APPS+%2F%2F+AUTOMATION;%3E+WAKE+UP%2C+SAMURAI.+WE+HAVE+CODE+TO+BURN." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=800&color=B026FF&center=true&vCenter=true&width=620&lines=%3E+BOOTING+NEURAL+INTERFACE...;%3E+USER%3A+LUCAS_NEVES+%5BAUTHORIZED%5D;%3E+SCALABLE+WEB+APPS+%2F%2F+AUTOMATION;%3E+CLEAN+CODE.+ZERO+LATENCY." alt="Typing SVG" />
 </a>
 
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0a0a0f)
-![CLASS](https://img.shields.io/badge/CLASS-NETRUNNER-FF003C?style=for-the-badge&labelColor=0a0a0f)
-![LOCATION](https://img.shields.io/badge/ZONE-PRAIA_GRANDE%2C_BR-FCEE0A?style=for-the-badge&labelColor=0a0a0f)
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-B026FF?style=for-the-badge&labelColor=0d0221)
+![ROLE](https://img.shields.io/badge/ROLE-FULL--STACK_DEV-7B2FFF?style=for-the-badge&labelColor=0d0221)
+![ZONE](https://img.shields.io/badge/ZONE-PRAIA_GRANDE%2C_BR-D580FF?style=for-the-badge&labelColor=0d0221)
 
 </div>
 
@@ -16,51 +31,57 @@
 
 ## `> ACCESSING_PROFILE.exe`
 
-```diff
-+ NOME........: Lucas Neves
-+ CLASSE......: Full-Stack Developer / Netrunner
-+ BASE........: Praia Grande, SP — Brasil
-+ ACADEMIA....: Desenvolvimento de Software Multiplataforma @ FATEC
-- ALERTA......: viciado em automação e código limpo
+```
+╔══════════════════════════════════════════════════════════╗
+║  NOME ........ Lucas Neves                               ║
+║  CLASSE ...... Full-Stack Developer                      ║
+║  BASE ........ Praia Grande, SP - Brasil                 ║
+║  ACADEMIA .... Desenv. Software Multiplataforma / FATEC  ║
+║  FOCO ........ Web apps escaláveis // Automação // APIs  ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-Desenvolvedor apaixonado por construir **aplicações web escaláveis** e otimizar processos através de **automação**. Escrevo código limpo, manutenível e eficiente, usando tecnologias modernas em toda a stack. Gosto de resolver desafios complexos, integrar APIs e evoluir minhas habilidades de resolução de problemas a cada dia.
+Desenvolvedor apaixonado por construir **aplicações web escaláveis** e otimizar processos com **automação**. Escrevo código limpo, manutenível e eficiente, usando tecnologias modernas em toda a stack. Gosto de resolver desafios complexos, integrar APIs e evoluir minha resolução de problemas a cada dia.
 
 ---
 
-## `> LOADING_CYBERWARE.dll`
+## `> LOADING_STACK.dll`
 
-<div align="center">
+```
+┌─[ FRONTEND ]──────────────────────────────────────────────┐
+```
+<img src="https://img.shields.io/badge/TypeScript-1a0b2e?style=for-the-badge&logo=typescript&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/JavaScript-1a0b2e?style=for-the-badge&logo=javascript&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/React-1a0b2e?style=for-the-badge&logo=react&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/Next.js-1a0b2e?style=for-the-badge&logo=nextdotjs&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/Tailwind-1a0b2e?style=for-the-badge&logo=tailwindcss&logoColor=B026FF" />
 
-**[ FRONTEND ]**
+```
+├─[ BACKEND ]───────────────────────────────────────────────┤
+```
+<img src="https://img.shields.io/badge/Node.js-1a0b2e?style=for-the-badge&logo=nodedotjs&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/Java-1a0b2e?style=for-the-badge&logo=openjdk&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/Spring-1a0b2e?style=for-the-badge&logo=spring&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/Python-1a0b2e?style=for-the-badge&logo=python&logoColor=B026FF" />
 
-<img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=00F0FF&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=FCEE0A&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=00F0FF&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/Next.js-0a0a0f?style=for-the-badge&logo=nextdotjs&logoColor=white&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/Tailwind-0a0a0f?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF&color=0a0a0f&labelColor=0a0a0f" />
+```
+├─[ DATABASE ]──────────────────────────────────────────────┤
+```
+<img src="https://img.shields.io/badge/PostgreSQL-1a0b2e?style=for-the-badge&logo=postgresql&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/Supabase-1a0b2e?style=for-the-badge&logo=supabase&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/MongoDB-1a0b2e?style=for-the-badge&logo=mongodb&logoColor=B026FF" />
 
-**[ BACKEND ]**
+```
+├─[ DEVOPS & TOOLS ]────────────────────────────────────────┤
+```
+<img src="https://img.shields.io/badge/Docker-1a0b2e?style=for-the-badge&logo=docker&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/DigitalOcean-1a0b2e?style=for-the-badge&logo=digitalocean&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/Git-1a0b2e?style=for-the-badge&logo=git&logoColor=B026FF" />
+<img src="https://img.shields.io/badge/Selenium-1a0b2e?style=for-the-badge&logo=selenium&logoColor=B026FF" />
 
-<img src="https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=nodedotjs&logoColor=FCEE0A&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/Java-0a0a0f?style=for-the-badge&logo=openjdk&logoColor=FF003C&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/Spring-0a0a0f?style=for-the-badge&logo=spring&logoColor=FCEE0A&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=FCEE0A&color=0a0a0f&labelColor=0a0a0f" />
-
-**[ DATABASE ]**
-
-<img src="https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=00F0FF&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/Supabase-0a0a0f?style=for-the-badge&logo=supabase&logoColor=FCEE0A&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/MongoDB-0a0a0f?style=for-the-badge&logo=mongodb&logoColor=00F0FF&color=0a0a0f&labelColor=0a0a0f" />
-
-**[ DEVOPS & TOOLS ]**
-
-<img src="https://img.shields.io/badge/Docker-0a0a0f?style=for-the-badge&logo=docker&logoColor=00F0FF&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/DigitalOcean-0a0a0f?style=for-the-badge&logo=digitalocean&logoColor=FF003C&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=FF003C&color=0a0a0f&labelColor=0a0a0f" />
-<img src="https://img.shields.io/badge/Selenium-0a0a0f?style=for-the-badge&logo=selenium&logoColor=FCEE0A&color=0a0a0f&labelColor=0a0a0f" />
-
-</div>
+```
+└───────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -68,10 +89,10 @@ Desenvolvedor apaixonado por construir **aplicações web escaláveis** e otimiz
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=FCEE0A&icon_color=00F0FF&text_color=ffffff&ring_color=FF003C" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=FCEE0A&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d0221&title_color=B026FF&icon_color=D580FF&text_color=ffffff&ring_color=7B2FFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d0221&title_color=B026FF&text_color=ffffff" />
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0a0a0f&ring=FF003C&fire=FCEE0A&currStreakLabel=00F0FF&sideLabels=ffffff&currStreakNum=FCEE0A&sideNums=00F0FF&dates=888888&stroke=FCEE0A&border=0a0a0f" />
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0d0221&ring=7B2FFF&fire=D580FF&currStreakLabel=B026FF&sideLabels=ffffff&currStreakNum=D580FF&sideNums=B026FF&dates=888888&stroke=3b0a6e&border=3b0a6e" />
 
 </div>
 
@@ -79,22 +100,42 @@ Desenvolvedor apaixonado por construir **aplicações web escaláveis** e otimiz
 
 ## `> ESTABLISHING_CONNECTION...`
 
+```
+   ┌──────────────────────────────┐
+   │  > ping lucas.neves          │
+   │  > reply: 64 bytes // ok     │
+   │  > channel: OPEN             │
+   └──────────────────────────────┘
+```
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/LINKEDIN-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0a0a0f&color=00F0FF" />
+  <img src="https://img.shields.io/badge/LINKEDIN-1a0b2e?style=for-the-badge&logo=linkedin&logoColor=B026FF&color=7B2FFF" />
 </a>
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/E--MAIL-0a0a0f?style=for-the-badge&logo=gmail&logoColor=FF003C&labelColor=0a0a0f&color=FF003C" />
+  <img src="https://img.shields.io/badge/E--MAIL-1a0b2e?style=for-the-badge&logo=gmail&logoColor=B026FF&color=7B2FFF" />
 </a>
 <a href="https://SEU_PORTFOLIO">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0a0a0f?style=for-the-badge&logo=vercel&logoColor=FCEE0A&labelColor=0a0a0f&color=FCEE0A" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-1a0b2e?style=for-the-badge&logo=vercel&logoColor=B026FF&color=7B2FFF" />
 </a>
 
-<br/><br/>
+</div>
 
-`// "Wake up, samurai. We have a city to burn." //`
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF003C,100:FCEE0A&height=120&section=footer" width="100%"/>
+## `> AUDIO_STREAM.mp3`
+
+```
+ ▁▂▃▅▆▇█▇▆▅▃▂▁▂▃▅▆▇█▇▆▅▃▂▁  NOW PLAYING  ▁▂▃▅▆▇█▇▆▅▃▂▁▂▃▅▆▇█▇▆▅▃▂▁
+```
+
+<div align="center">
+
+<a href="https://open.spotify.com/user/SEU_SPOTIFY_ID">
+  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0221&bar_color=b026ff&bar_color_cover=false" alt="Spotify" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:3b0a6e,100:0d0221&height=120&section=footer" width="100%"/>
 
 </div>
