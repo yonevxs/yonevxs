@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0a6e,100:7B2FFF&height=120&section=header&animation=twinkling" width="100%"/>
-
 <img src="assets/banner.svg" alt="LUCAS NEVES" width="100%"/>
 
 <a href="https://git.io/typing-svg">
